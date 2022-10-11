@@ -2,7 +2,7 @@
 Personal Expense Tracker Application
 
 Team Members: 
-1. Vasanth T S
-2. Surya R
-3. Ashwini S
-4. SriAbinaya 
+1. VASANTH T S
+2. SURYA R
+3. ASHWINI S
+4. SRIABINAYA 
