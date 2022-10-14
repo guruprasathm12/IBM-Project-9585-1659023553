@@ -1,0 +1,8 @@
+create table appUsers(email varchar(100), username varchar(30), rollNumber int, password varchar(30))
+insert into appUsers values('abc@gmail.com', 'abc', 1, 'abc1')
+insert into appUsers values('xyz@gmail.com', 'xyz', 2, 'xyz2')
+insert into appUsers values('def@gmail.com', 'def', 3, 'def3')
+insert into appUsers values('ijk@gmail.com', 'ijk', 4, 'ijk4')
+update appUsers set password = 'abcpass1' where rollNumber = 1
+insert into appUsers values('qrs@gmail.com', 'qrs', 5, 'qrs5')
+delete from appUsers where userName = 'qrs'
